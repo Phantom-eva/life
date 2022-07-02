@@ -28,15 +28,23 @@ https://internationalcenter.umich.edu/resources/tax/applying-ssn-card
 
 ### 4. Apartment or house
 
+Willowtree
 
+Courtyard
 
 ### 5. Transportation
 
+AATA
 
+Blue bus
 
 ### 6. Restaurant 
 
+Saica
 
+Evergreen
+
+Hola Seoul
 
 ### 7. Clothes
 
