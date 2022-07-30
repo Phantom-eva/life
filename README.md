@@ -1,12 +1,8 @@
-# How to live comfortably in Ann Arbor
+# How to live comfortably in USA
 
 ### 1. Bank and credit card
 
 chase bank (open saving and checking account): 
-
-(1) 3500 Plymouth Rd, Ann Arbor, MI 48105
-
-(2) 100 S Main St, Ann Arbor, MI 48104
 
 credit card : https://www.uscreditcardguide.com/zh/
 
@@ -24,7 +20,11 @@ https://internationalcenter.umich.edu/resources/tax/applying-ssn-card
 
 ### 3. Shopping
 
+Kroger
 
+Costco
+
+Walmart
 
 ### 4. Apartment or house
 
@@ -55,3 +55,9 @@ Hola Seoul
 https://taxpanda.com/form-8843/
 
 ### 9. Sports
+
+### 10. Some tricks to save money:
+
+Amazon Shopper Panel
+
+Rakuten
