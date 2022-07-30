@@ -26,6 +26,10 @@ Costco
 
 Walmart
 
+Weee
+
+Instcart
+
 ### 4. Apartment or house
 
 Willowtree
@@ -34,9 +38,9 @@ Courtyard
 
 ### 5. Transportation
 
-AATA
+Flight
 
-Blue bus
+Amtrack
 
 ### 6. Restaurant 
 
